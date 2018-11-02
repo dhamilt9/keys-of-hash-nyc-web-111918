@@ -1,5 +1,5 @@
 class Hash
-  def keys_of(*arguments)
-    arguments.each{|arg| puts "#{arg}"}
+  def keys_of(arguments)
+    # code goes here
   end
 end
