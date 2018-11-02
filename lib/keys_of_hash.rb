@@ -1,7 +1,5 @@
 class Hash
-  def keys_of(*arguments)
-    arguments.each do |argument|
-      return "YUP"
-    end
+  def keys_of(arguments)
+    # code goes here
   end
 end
