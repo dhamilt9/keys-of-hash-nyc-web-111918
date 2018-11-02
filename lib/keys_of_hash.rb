@@ -1,5 +1,5 @@
 class Hash
   def keys_of(arguments, *splat)
-    puts "#{arguments}"
+    puts "Hey now - #{arguments}"
   end
 end
